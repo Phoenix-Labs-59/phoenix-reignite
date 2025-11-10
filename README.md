@@ -103,8 +103,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-For questions or feedback, feel free to reach out to the team!
-
+For questions or feedback, feel free to open an issue on this repository!
 ---
 
-**Made with ❤️ by Phoenix Labs**
+**Built with ❤️ by Phoenix Labs**
