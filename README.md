@@ -59,11 +59,6 @@ phoenix-reignite/
 └── LICENSE           # MIT License
 ```
 
-## 👥 Team
-
-- **Mehul** - Video creation, project explanation, and frontend development
-- **Anshu Aryan** - Content creation, testing, and brainstorming
-
 ## 🛠️ Tech Stack
 
 - **Backend**: Python (Flask/FastAPI)
